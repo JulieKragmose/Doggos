@@ -1,0 +1,5 @@
+^doggyProgram\.Rproj$
+^\.Rproj\.user$
+^doggyProgram\.Rcheck$
+^doggyProgram.*\.tar\.gz$
+^doggyProgram.*\.tgz$
